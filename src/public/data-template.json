@@ -1,0 +1,174 @@
+{
+    "fullName": "Boris Godunov",
+    "major": "Web developer, Full Stack Developer",
+    "phone": "+01234567890",
+    "email": "somebody@yandex.ru",
+    "address": "",
+    "links": {
+        "linkedIn": {
+            "content": "linkedin.com/in/borisgodunov",
+            "href": "https://linkedin.com/in/borisgodunov"
+        }
+    },
+    "sections": {
+        "summary": [
+            {
+                "companyName": null,
+                "major": null,
+                "location": null,
+                "timeRange": null,
+                "details": [
+                    "My name is Boris. I live in London. London is the capital of Great Britain."
+                ],
+                "items": null
+            }
+        ],
+        "experience": [
+            {
+                "companyName": "Horns and Hooves",
+                "major": "Frontend developer",
+                "location": "London, OR",
+                "timeRange": {
+                    "start": "Nov 0000",
+                    "end": "Present"
+                },
+                "details": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "items": null
+            }
+        ],
+        "education": [
+            {
+                "companyName": "Harvard University",
+                "major": null,
+                "location": " Cambridge MA, US",
+                "timeRange": {
+                    "start": "Sep 0000",
+                    "end": "Oct 0000"
+                },
+                "details": null,
+                "items": [
+                    {
+                        "title": "Major",
+                        "desc": "Engineer",
+                        "url": null
+                    }
+                ]
+            }
+        ],
+        "skills": [
+            {
+                "companyName": null,
+                "major": null,
+                "location": null,
+                "timeRange": null,
+                "details": null,
+                "items": [
+                    {
+                        "title": "Technologies",
+                        "desc": "HTML, CSS",
+                        "url": null
+                    },
+                    {
+                        "title": "Other",
+                        "desc": "I can clean snow, lay bricks, or work as a translator - I know English",
+                        "url": null
+                    }
+                ]
+            }
+        ],
+        "projects": [
+            {
+                "companyName": "Full development process",
+                "major": null,
+                "location": null,
+                "timeRange": null,
+                "details": null,
+                "items": [
+                    {
+                        "title": "",
+                        "desc": "",
+                        "url": ""
+                    },
+                    {
+                        "title": "",
+                        "desc": "",
+                        "url": ""
+                    },
+                    {
+                        "title": "",
+                        "desc": "",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "companyName": "Contributed to projects",
+                "major": null,
+                "location": null,
+                "timeRange": null,
+                "details": null,
+                "items": [
+                    {
+                        "title": "",
+                        "desc": "",
+                        "url": ""
+                    },
+                    {
+                        "title": "",
+                        "desc": "",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "companyName": "Active participant",
+                "major": null,
+                "location": null,
+                "timeRange": null,
+                "details": null,
+                "items": [
+                    {
+                        "title": "",
+                        "url": ""
+                    },
+                    {
+                        "title": "",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "companyName": "Portfolio of demo projects",
+                "major": null,
+                "location": null,
+                "timeRange": null,
+                "details": null,
+                "items": [
+                    {
+                        "title": "",
+                        "url": ""
+                    }
+                ]
+            }
+        ],
+        "additionally": [
+            {
+                "companyName": null,
+                "major": null,
+                "location": null,
+                "timeRange": null,
+                "details": null,
+                "items": [
+                    {
+                        "desc": ""
+                    }
+                ]
+            }
+        ]
+    }
+}
