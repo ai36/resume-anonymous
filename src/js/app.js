@@ -124,19 +124,33 @@ const BASE_PATH = import.meta.env.BASE_URL;
 
 async function loadData(path) {
     try {
-        // Для разработки используем прямой путь к файлу, для прода - API-роут
-        const apiUrl = import.meta.env.PROD ? `/api/data?file=${path}` : `/${path}`;
-
-        const response = await fetch(apiUrl);
-        if (!response.ok) throw new Error(`HTTP error! Status: ${response.status}`);
-
-        base = await response.json();
-        isDataLoaded = true;
-        startRendering();
+      // Универсальный путь для всех окружений
+      const apiUrl = import.meta.env.DEV 
+        ? `/${path}`  // В разработке берем напрямую из public
+        : `/api/data?file=${path}`;  // В продакшене через API роут
+      
+      const response = await fetch(apiUrl);
+      if (!response.ok) throw new Error(`HTTP error! Status: ${response.status}`);
+      
+      base = await response.json();
+      isDataLoaded = true;
+      startRendering();
     } catch (error) {
-        console.error("Data loading error:", error);
+      console.error('Data loading error:', error);
+      // Fallback на локальный файл если API не сработал
+      if (!import.meta.env.DEV) {
+        try {
+          const localResponse = await fetch(`/${path}`);
+          if (!localResponse.ok) throw new Error('Fallback failed');
+          base = await localResponse.json();
+          isDataLoaded = true;
+          startRendering();
+        } catch (fallbackError) {
+          console.error('Fallback loading failed:', fallbackError);
+        }
+      }
     }
-}
+  }
 
 async function fetchWithFallback(serverUrl, localUrl) {
     try {

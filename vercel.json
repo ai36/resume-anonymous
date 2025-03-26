@@ -6,8 +6,8 @@
         "use": "@vercel/node"
       },
       {
-        "src": "dist/**",
-        "use": "@vercel/static"
+        "src": "vite.config.js",
+        "use": "@vercel/vite"
       }
     ],
     "routes": [
@@ -17,7 +17,7 @@
       },
       {
         "src": "/(.*)",
-        "dest": "/dist/$1"
+        "dest": "/$1"
       }
     ]
   }
