@@ -6,7 +6,6 @@ export default async function handler(req, res) {
     const { file = 'data-ru.json' } = req.query;
     const safeFile = file.replace(/[^a-z0-9.-]/gi, '_');
     
-    // Два возможных пути для файлов
     const pathsToTry = [
       path.join(process.cwd(), 'public', safeFile),  // Vercel
       path.join(process.cwd(), 'dist', safeFile)    // Локальный preview

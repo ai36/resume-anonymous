@@ -208,7 +208,7 @@ function startRendering() {
 /* Рендер и обработка кнопок */
 window.addEventListener("DOMContentLoaded", () => {
     buttonsRender();
-    let currentPath = "data-o3.json";
+    let currentPath = "data-ru.json";
     loadData(currentPath);
 
     window.addEventListener("click", (event) => {
