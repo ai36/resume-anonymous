@@ -1,0 +1,23 @@
+{
+    "version": 2,
+    "builds": [
+      {
+        "src": "src/api/data.js",
+        "use": "@vercel/node"
+      },
+      {
+        "src": "vite.config.js",
+        "use": "@vercel/vite"
+      }
+    ],
+    "routes": [
+      {
+        "src": "/api/data",
+        "dest": "/src/api/data.js"
+      },
+      {
+        "src": "/(.*)",
+        "dest": "/$1"
+      }
+    ]
+  }
