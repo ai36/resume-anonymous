@@ -3,7 +3,7 @@ import path from 'path';
 
 export default async function handler(req, res) {
   try {
-    const { file = 'data-o3.json' } = req.query;
+    const { file = 'data-ru.json' } = req.query;
     const safeFile = file.replace(/[^a-z0-9.-]/gi, '_');
     
     // Два возможных пути для файлов
