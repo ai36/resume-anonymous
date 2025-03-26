@@ -1,0 +1,195 @@
+{
+    "fullName": "Andrei Fedorov",
+    "major": "Frontend Web Developer, Front End Engineer",
+    "phone": "+0123456789",
+    "email": "4363626@gmail.com",
+    "address": "Hometown, US",
+    "links": {
+        "linkedIn": {
+            "content": "linkedin.com/in/andreifedorov",
+            "href": "https://linkedin.com/in/andreifedorov"
+        }
+    },
+    "sections": {
+        "summary": [
+            {
+                "companyName": null,
+                "major": null,
+                "location": null,
+                "timeRange": null,
+                "details": null,
+                "items": [
+                    {
+                        "title": null,
+                        "desc": "Practical and skilled Frontend Developer with hands-on experience building responsive and accessible websites. I have contributed to projects from design to implementation, focusing on performance and user experience. My background includes working with JavaScript, TypeScript, React, Next.js, and other modern tools, along with experience in team leadership and data center management. I have worked in both the US and Russia, which has given me a flexible and global approach to problem-solving",
+                        "url": null
+                    }
+                ]
+            }
+        ],
+        "experience": [
+            {
+                "companyName": "Some Technologies Agency",
+                "major": "Frontend developer",
+                "location": "Hometown, CA",
+                "timeRange": {
+                    "start": "August 2024",
+                    "end": "Present"
+                },
+                "details": [
+                    "Developed over 10 responsive websites for local business clients using React, Next.js, and TypeScript",
+                    "Improved website loading times and other performance metrics by an average of 30% through performance optimizations like code splitting and lazy loading",
+                    "Collaborated with cross-functional teams to gather requirements and deliver accessible, user-friendly interfaces"
+                ],
+                "items": null
+            },
+            {
+                "companyName": "Some Solutions",
+                "major": "Data-Center Technician, Team Lead",
+                "location": "Hometown, CA",
+                "timeRange": {
+                    "start": "October 2023",
+                    "end": "January 2025"
+                },
+                "details": [
+                    "Personally assembled and installed server equipment in over 600 server racks, ensuring high quality, reliability, and security",
+                    "Led a team of 4 specialists, increasing operational efficiency by 25% through optimized onboarding and training processes",
+                    "Coordinated work with contractors and cross-functional teams to improve communication and project management"
+                ],
+                "items": null
+            }
+        ],
+        "education": [
+            {
+                "companyName": "University of Cinema and Television",
+                "major": null,
+                "location": "Saint-Petersburg, Russia",
+                "timeRange": {
+                    "start": "September 1998",
+                    "end": "October 2002"
+                },
+                "details": null,
+                "items": [
+                    {
+                        "title": null,
+                        "desc": "Bachelor of Science in Audiovisual Engineering",
+                        "url": null
+                    }
+                ]
+            }
+        ],
+        "skills": [
+            {
+                "companyName": null,
+                "major": null,
+                "location": null,
+                "timeRange": null,
+                "details": null,
+                "items": [
+                    {
+                        "title": "Technologies",
+                        "desc": "JavaScript, TypeScript, React, Redux, Next.js, Vite, PHP, ECMAScript, HTML, CSS, Responsive Web Design, Bootstrap, jQuery, SASS, SCSS, Tailwind CSS, AJAX, JSON, REST, API, Git, GitHub, Docker, Visual Studio, Content Management Systems, Figma, Google Analytics, Google Search Console, SEO Tools, Web Analytics, Digital Marketing, E-commerce, IT Support, Windows, Microsoft Office, Computer Skills, Computer Science, Software Development",
+                        "url": null
+                    },
+                    {
+                        "title": "Other",
+                        "desc": "Communication Skills, Collaboration, Teamwork, Problem Solving, Time Management, Adaptability, Critical Thinking, Attention to Detail, Organization, Decision Making, Strategic Thinking, Emotional Intelligence, Negotiation, Customer Service, Flexibility",
+                        "url": null
+                    }
+                ]
+            }
+        ],
+        "projects": [
+            {
+                "companyName": "Full development process",
+                "major": null,
+                "location": null,
+                "timeRange": null,
+                "details": null,
+                "items": [
+                    {
+                        "title": "somesite1.com",
+                        "desc": "Full-cycle development of a website for a local HVAC service, including front-end and back-end integration, performance optimization, and responsive design. Used tech stack: HTML5, CSS3, JS, PHP, Node.js, NPM, Gulp, Gulp Plugins, Markdown, Git, GitHub, Figma, Google Search Console, KommoCMS API, Google Analytics, Google Ads, LLM",
+                        "url": "https://somesite1.com"
+                    },
+                    {
+                        "title": "somesite2.com",
+                        "desc": "Developed a website for a stonework construction contractor, no longer supported. Used tech stack: HTML, CSS, JavaScript, PHP, Markdown, Git, GitHub, Figma, Google Search Console, Google Analytics, LLM",
+                        "url": "https://somesite2.com"
+                    },
+                    {
+                        "title": "somesite3.com",
+                        "desc": "Developed website functionality for an audio-visual equipment rental service, including process automation and payment system integration. Used tech stack: HTML, CSS, JavaScript, PHP, JQuery, XML, JSON, REST, Figma, Google Search Console, Google Analytics, Google Ads, LLM, Yandex API, Serverless authorization, Auth0",
+                        "url": "https://somesite3.com"
+                    }
+                ]
+            },
+            {
+                "companyName": "Contributed to projects",
+                "major": null,
+                "location": null,
+                "timeRange": null,
+                "details": null,
+                "items": [
+                    {
+                        "title": "somesite4.com",
+                        "desc": "Contributed to the development of a website for a roofing construction contractor, no longer supported. Used tech stack: HTML, CSS, JavaScript, PHP, Wordpress, Elementor, GSC, Google Analytics, LLM",
+                        "url": "https://somesite2.com"
+                    },
+                    {
+                        "title": "somesite5.com",
+                        "desc": "Contributed to digital marketing of a website for a local appliance repair service. Used tech stack: Wordpress, Wix, GSC, Google Analytics, Lighthouse",
+                        "url": "https://somesite5.com"
+                    }
+                ]
+            },
+            {
+                "companyName": "Active participant on Stack Overflow",
+                "major": null,
+                "location": null,
+                "timeRange": null,
+                "details": null,
+                "items": [
+                    {
+                        "title": "stackoverflow.com/users/6641198/andrei-fedorov",
+                        "desc": "Developer help community, knowledge base in English",
+                        "url": "https://stackoverflow.com/users/6641198/andrei-fedorov"
+                    },
+                    {
+                        "title": "ru.stackoverflow.com/users/208243/andrei-fedorov",
+                        "desc": "Developer help community, knowledge base in Russian",
+                        "url": "https://ru.stackoverflow.com/users/208243/andrei-fedorov"
+                    }
+                ]
+            },
+            {
+                "companyName": "Portfolio of demo projects on CodePen",
+                "major": null,
+                "location": null,
+                "timeRange": null,
+                "details": null,
+                "items": [
+                    {
+                        "title": "codepen.io/aliencash/pens/public",
+                        "desc": "Web demos, trying out new technologies and concepts, free help for other developers",
+                        "url": "https://codepen.io/aliencash/pens/public"
+                    }
+                ]
+            }
+        ],
+        "additionally": [
+            {
+                "companyName": null,
+                "major": null,
+                "location": null,
+                "timeRange": null,
+                "details": null,
+                "items": [
+                    {
+                        "desc": ""
+                    }
+                ]
+            }
+        ]
+    }
+}
