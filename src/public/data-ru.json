@@ -1,0 +1,201 @@
+{
+    "fullName": "Andrei Fedorov",
+    "major": "Frontend-разработчик",
+    "phone": "+0123456789",
+    "email": "4363626@gmail.com",
+    "address": "Санкт-Петербург, Россия",
+    "links": {
+        "linkedIn": {
+            "content": "linkedin.com/in/andreifedorov",
+            "href": "https://linkedin.com/in/andreifedorov"
+        }
+    },
+    "sections": {
+        "summary": [
+            {
+                "titleMod": "Кратко",
+                "companyName": null,
+                "major": null,
+                "location": null,
+                "timeRange": null,
+                "details": null,
+                "items": [
+                    {
+                        "title": null,
+                        "desc": "Я фронтенд-разработчик с большим опытом создания адаптивных и доступных веб-сайтов. Я участвовал во множестве проектов на всех этапах разработки от сбора требований до внедрения, уделяя особое внимание эффектировности и пользовательскому опыту. Мой опыт включает работу с TypeScript, React, Next.js и другими современными инструментами, а также опыт руководства командой и управления процесом ввода в экслуатацию серверного аппаратного обеспечения. Я имею опыт работы в команде как России, так и в США, что дало мне гибкий и разноплановый подход к решению проблем",
+                        "url": null
+                    }
+                ]
+            }
+        ],
+        "experience": [
+            {
+                "titleMod": "Опыт работы",
+                "companyName": "Галера ООО",
+                "major": "Frontend разработчик",
+                "location": "Санкт-Петербург",
+                "timeRange": {
+                    "start": "Август 2024",
+                    "end": "настоящее время"
+                },
+                "details": [
+                    "Разработал более 10 веб-сайтов для локального малого и среднего бизнеса, используя React, Next.js, and TypeScript",
+                    "Работал на улучшением производительности и времени загрузки и иными метриками оптимизации веб приложений используя современные паттерны на пример разделение кода и отложенная загрузка",
+                    "Сотрудничал с смежными командами и разработчиками для достижения лучших результатов в быстродействии, доступности и UX"
+                ],
+                "items": null
+            },
+            {
+                "companyName": "Серверные решения ООО",
+                "major": "Инженер ЦОД, Руководитель группы",
+                "location": "Санкт-Петербург",
+                "timeRange": {
+                    "start": "Октябрь 2023",
+                    "end": "Январь 2025"
+                },
+                "details": [
+                    "Обеспечил сборку, настройку, и пуско-наладку более 600 серверных стоек, концентрируясь на высоком качестве надежности и безопасности",
+                    "Управлял командой и 4 специалистов, увеличил производительность команды на 25%, сократил ручной труд, оптимизировал процесс онбординга и обучения новых сотрудников",
+                    "Координировал работу с субподрядчиками и смежными командрами для улучшения эффективности и прогнозируемости результатов"
+                ],
+                "items": null
+            }
+        ],
+        "education": [
+            {
+                "titleMod": "Учеба",
+                "companyName": "Университет кино и телевидения",
+                "major": null,
+                "location": "Санкт-Петербург",
+                "timeRange": {
+                    "start": "Сентябрь 1998",
+                    "end": "Октябрь 2002"
+                },
+                "details": null,
+                "items": [
+                    {
+                        "title": null,
+                        "desc": "Инженер (Аудиовизуальная техника)",
+                        "url": null
+                    }
+                ]
+            }
+        ],
+        "skills": [
+            {
+                "titleMod": "Нывыки и технологии",
+                "companyName": null,
+                "major": null,
+                "location": null,
+                "timeRange": null,
+                "details": null,
+                "items": [
+                    {
+                        "title": "Технологии",
+                        "desc": "JavaScript, TypeScript, React, Redux, Next.js, Vite, PHP, ECMAScript, HTML, CSS, Отзывчивый дизайн, Bootstrap, jQuery, SASS, SCSS, Tailwind CSS, AJAX, JSON, REST, API, Git, GitHub, Docker, Visual Studio, CMS, Figma, Google Analytics, Google Search Console, SEO, Web аналитика, Windows, Microsoft Office",
+                        "url": null
+                    },
+                    {
+                        "title": "Личные качества",
+                        "desc": "Навыки устной и письменной речи, Сотрудничество, Работа в команде, Решение проблем, Ууправление временем, Адаптивность, Критическое мышление, Внимание к деталям, Собранность, Стратегическое мышление, Эмпатия, Навыки переговоров",
+                        "url": null
+                    }
+                ]
+            }
+        ],
+        "projects": [
+            {
+                "titleMod": "Проекты",
+                "companyName": "Полный процесс разработки",
+                "major": null,
+                "location": null,
+                "timeRange": null,
+                "details": null,
+                "items": [
+                    {
+                        "title": "somesite1.com",
+                        "desc": "Полный цикл разработки веб-сайта для локальной климатической компании, включая интеграцию front-end и back-end, оптимизацию производительности и адаптивный дизайн. Используемый стек: HTML5, CSS3, JS, PHP, Node.js, NPM, Gulp, Gulp Plugins, Markdown, Git, GitHub, Figma, Google Search Console, KommoCMS API, Google Analytics, Google Ads, LLM",
+                        "url": "https://somesite1.com"
+                    },
+                    {
+                        "title": "somesite2.com",
+                        "desc": "Разработал сайт строительной компании (облицовка камнем). Используемый стек: HTML, CSS, JavaScript, PHP, Markdown, Git, GitHub, Figma, Google Search Console, Google Analytics, LLM",
+                        "url": "https://somesite2.com"
+                    },
+                    {
+                        "title": "somesite3.com",
+                        "desc": "Разработал веб-сайт для сервиса аренды аудиовизуального оборудования, включая автоматизацию с системой продаж и управления проектами и интеграцию платежными системами. Используемый стек: HTML, CSS, JavaScript, PHP, JQuery, XML, JSON, REST, Figma, Google Search Console, Google Analytics, LLM, Yandex API, Serverless-авторизация, Auth0",
+                        "url": "https://somesite3.com"
+                    }
+                ]
+            },
+            {
+                "companyName": "Принимал участие в проектах",
+                "major": null,
+                "location": null,
+                "timeRange": null,
+                "details": null,
+                "items": [
+                    {
+                        "title": "somesite4.com",
+                        "desc": "Принимал участие в разработке вебсайта для строительной компании (крыши для частных домов). Используемый стек: HTML, CSS, JavaScript, PHP, Wordpress, Elementor, GSC, Google Analytics, LLM",
+                        "url": "https://somesite2.com"
+                    },
+                    {
+                        "title": "somesite5.com",
+                        "desc": "Участвовал в цифровом маркетинге веб-сайта местной службы ремонта бытовой техники. Использованный технический стек: Wordpress, Wix, GSC, Google Analytics, Lighthouse",
+                        "url": "https://somesite5.com"
+                    }
+                ]
+            },
+            {
+                "companyName": "Активный участник Stack Overflow",
+                "major": null,
+                "location": null,
+                "timeRange": null,
+                "details": null,
+                "items": [
+                    {
+                        "title": "ru.stackoverflow.com/users/208243/andrei-fedorov",
+                        "desc": "Русскоязычное сообщество разработчиков, open-source база знаний",
+                        "url": "https://ru.stackoverflow.com/users/208243/andrei-fedorov"
+                    },
+                    {
+                        "title": "stackoverflow.com/users/6641198/andrei-fedorov",
+                        "desc": "Англоязычное сообщество разработчиков, open-source база знаний",
+                        "url": "https://stackoverflow.com/users/6641198/andrei-fedorov"
+                    }
+                ]
+            },
+            {
+                "companyName": "Демо-проекты на CodePen",
+                "major": null,
+                "location": null,
+                "timeRange": null,
+                "details": null,
+                "items": [
+                    {
+                        "title": "codepen.io/aliencash/pens/public",
+                        "desc": "Web-демо, прототипы, попытки применения новых web-технологий, бесплатная помощь начинающим",
+                        "url": "https://codepen.io/aliencash/pens/public"
+                    }
+                ]
+            }
+        ],
+        "additionally": [
+            {
+                "titleMod": "Дополнительно",
+                "companyName": null,
+                "major": null,
+                "location": null,
+                "timeRange": null,
+                "details": null,
+                "items": [
+                    {
+                        "desc": "Женат. Без вредных привычек. Водительское удостоверение категории В с 2003 года. Не готов к переезду."
+                    }
+                ]
+            }
+        ]
+    }
+}

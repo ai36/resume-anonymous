@@ -2,6 +2,11 @@
 function buttonsRender() {
     const buttons = [
         {
+            text: "Frontend-разработчк",
+            path: "data-ru.json",
+            onclick: "",
+        },
+        {
             text: "Skilled Frontend developer",
             path: "data-o3.json",
             onclick: "",
@@ -68,7 +73,9 @@ function listAdd(str) {
 function contentAdd(section) {
     let box = document.querySelector("." + section);
 
-    let content = `<h2 class="title">${section == "experience" ? "Professional Experience" : section[0].toUpperCase() + section.slice(1)}</h2>`;
+console.log(base.sections[section][0].titleMod);
+
+    let content = `<h2 class="title">${section == "experience" ? ( base.sections[section][0].titleMod ? base.sections[section][0].titleMod : "Professional Experience") : ( base.sections[section][0].titleMod ? base.sections[section][0].titleMod : section[0].toUpperCase() + section.slice(1))}</h2>`;
     base.sections[section].forEach((item) => {
         content += `
             ${item.companyName ? `<h3>${[item.companyName, item.major, item.location].filter((item) => item !== null).join(", ")}</h3>` : ""}
